@@ -19,8 +19,8 @@ Here is how I imagine the project to work, first of all everything would happen 
 
 ## The problem
 
-There is only one problem with this big project, and that is that I really don't know where to start, or how to do it. I have a pretty good knowledge in development, but I really don't know where to start. That's why I need your help 👊 You'll find the To-Do list at the bottom, and in the Issues tab the different discussions about the technologies we could use!
-Of course any participation in the development of the project will be marked in the credits of the repo and the site!
+There is only one problem with this big project, and that is that I really don't know where to start, or how to do it. I have a pretty good knowledge in development, but I really don't know where to start. That's why I need your help 👊 You can find the to-do list below, and in the Discussions tab the different questions about the technologies we could use and how to set up this project simply and quickly!
+Of course any participation in the development of the project will be marked in the repo and site credits!
 
 # To-do
 Here is a non-exhaustive list of things to do to get this project underway
