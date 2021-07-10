@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "Musical Room",
+    "description": "The title in the navbar"
+  },
+  "item.label.Create a room": {
+    "message": "Create a room",
+    "description": "Navbar item with label Create a room"
+  },
+  "item.label.Join a room": {
+    "message": "Join a room",
+    "description": "Navbar item with label Join a room"
+  },
+  "item.label.Our blog": {
+    "message": "Our blog",
+    "description": "Navbar item with label Our blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
