@@ -4,32 +4,29 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Secure',
     Svg: require('../../static/img/lock.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our platform is secure and does not collect any data about your profile or the music you play in the queue
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Easy',
     Svg: require('../../static/img/easy.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Our platform has been designed to be easy to use for you or your friends 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '"Girl Just Wanna Have Fun" 🎵',
     Svg: require('../../static/img/party.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Push the possibilities of your parties by allowing your guests to discover new music, who knows, it could be your future track of the moment 
       </>
     ),
   },
